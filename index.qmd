@@ -8,7 +8,7 @@ title: "Yair Litman"
   </head>
   <body>
     <h3>
-        My personal webiste has been recently moved <a href="https://litman90.github.io/webpage/">here</a>.
+       My personal website is now  <a href="https://litman90.github.io/webpage/">here</a>.
     </h3>
   </body>
 </html>
